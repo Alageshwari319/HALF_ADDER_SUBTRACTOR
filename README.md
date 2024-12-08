@@ -88,3 +88,5 @@ Developed by:Alageshwari V RegisterNumber: 24900791
 
 
 **Result:**
+
+Thus,the Verilog program has been successfully executed.
